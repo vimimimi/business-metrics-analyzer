@@ -11,11 +11,10 @@
 - matplotlib
 
 ## Запуск
-```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
 
-Автор
+## Автор
 Студент группы Б1123-38.03.05ба(1) Ильина Валерия Максимовна
